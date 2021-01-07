@@ -27,6 +27,7 @@ tecnologias utilizadas
 
 O Awax foi um projeto desenvolvido durante o curso de HTML5 e CSS3 da B7Web, foram diversos desafios para deixar a aplicação completa, porém o aprendizado foi incrível, pude ver minha evolução durante todo o processo, desde a estruturação do HTML até o processo de responsividade para diversos tipos de dispositivos, só tenho a agradecer ao professor [@Bonieky](https://github.com/bonieky) pelo apoio e disposição para ajudar nas dúvidas💜
 
+Link: https://gabriell-ferreira.github.io/Projeto-Awax/
 
 ## :link: Projeto rodando
 - [Awax](https://gabriell-ferreira.github.io/Projeto-Awax/)
